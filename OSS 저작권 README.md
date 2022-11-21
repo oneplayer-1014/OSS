@@ -67,6 +67,7 @@ Open source soft ware lisence top 20
 ![image](https://user-images.githubusercontent.com/112846440/203049360-b0624efa-09bb-4ac4-a5ce-01cfd726cb59.png)
 
 출처 : https://changun516.tistory.com/110
+
 출처 : www.synopsys.com/blogs/software-security/top-open-source-licenses/
 
 공개SW와 라이선스
